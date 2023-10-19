@@ -85,11 +85,11 @@ author:
   bio              : "MSc Student in DCS U of T"
   location         : "Toronto, ON, CA"
   employer         :
-  pubmed           : "https://aclanthology.org/people/k/ken-shi/"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5IBOuZYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://aclanthology.org/people/k/ken-shi/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ken-shi-b42739179/"
   orcid            : 
   pinterest        :
   soundcloud       :
