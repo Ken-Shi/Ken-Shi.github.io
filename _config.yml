@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ken (Jianzhong) Shi"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MSc Student in DCS U of T"
   location         : "Toronto, ON, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  aclanthology     : "https://aclanthology.org/people/k/ken-shi/"
+  googlescholar    : "https://scholar.google.com/citations?user=5IBOuZYAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Ken-Shi"
   google_plus      :
   keybase          :
   instagram        :
