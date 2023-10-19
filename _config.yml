@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-CA"
-title                    : "Ken (Jianzhong) Shi / Home Page"
+title                    : "Ken Shi / Home Page"
 title_separator          : "-"
 name                     : &name "Ken Shi"
 description              : &description "personal description"
