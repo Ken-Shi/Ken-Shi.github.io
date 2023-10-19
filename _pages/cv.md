@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BASc in Engineering Science - Machine Intelligence, University of Toronto, 2023
+* MSc in Computer Science, University of Toronto, 2025 (expected)
 
-Work experience
+Research / Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2020: Research Assistant
+  * University of Toronto
+  * Project Brief: A research project held by iNAGO inc and University of Toronto on smart voice assistant for vehicles.
+  * Duties included: data processing, most of coding and communication.
+  * Supervisor: Professor Gerald Penn
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Software Engineer
+  * TXIO Corporation
+  * Work Summary: ML based financial suggestion system that gives advise based on user’s financial status.
+  * Duties included: developing and maintaining ML model as well as basic frontend/backend features.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Project Management & Development
+* Coding with Proficiency
+  * Python
+  * C / C++
+  * Java
+  * Javascript
+* Verbal / Written Communication in English & Mandarin
+* Visualization Design & implementation
 
 Publications
 ======
@@ -54,6 +56,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
