@@ -2,7 +2,6 @@
 title: "Teaching Assistantship 2024 Fall"
 collection: teaching
 type: "Graduate / Undergraduate Courses"
-permalink: /teaching/2024-fall-teaching-3
 venue: "University of Toronto"
 date: 2024-09-01
 location: "Toronto, Ontario"

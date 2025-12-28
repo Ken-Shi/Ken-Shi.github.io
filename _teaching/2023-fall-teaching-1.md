@@ -2,7 +2,6 @@
 title: "Teaching Assistantship 2023 Fall"
 collection: teaching
 type: "Graduate / Undergraduate Courses"
-permalink: /teaching/2023-fall-teaching-1
 venue: "University of Toronto"
 date: 2023-09-01
 location: "Toronto, Ontario"
