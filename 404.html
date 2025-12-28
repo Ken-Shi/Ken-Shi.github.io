@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting…</title>
+    <meta name="robots" content="noindex">
+    <script>
+      (function () {
+        const targetBase = "https://www.cs.toronto.edu/~kenshi";
+        const path = window.location.pathname || "/";
+        const qs = window.location.search || "";
+        const hash = window.location.hash || "";
+        window.location.replace(targetBase + path + qs + hash);
+      })();
+    </script>
+    <noscript>
+      <meta http-equiv="refresh" content="0; url=https://www.cs.toronto.edu/~kenshi/">
+    </noscript>
+  </head>
+  <body>
+    <p>
+      Redirecting to
+      <a href="https://www.cs.toronto.edu/~kenshi/">https://www.cs.toronto.edu/~kenshi/</a>…
+    </p>
+  </body>
+</html>
